@@ -8,6 +8,7 @@ spanning from 04/2024 to 11/2024. Through visual tracking of my progress, using 
 - The project is mainly based on Power Query(for data cleaning), Power BI(for data visualization).
 - Some of the visualizations from the project: 
 ![image](https://github.com/user-attachments/assets/665368d9-58f4-4a9c-903d-d72ea0edd486)
-![image](https://github.com/user-attachments/assets/f7650d98-bf09-44c3-b8cf-3f7139ba001d)
+![image](https://github.com/user-attachments/assets/c9193524-25f7-4b9a-9605-589a9c9bb74a)
+
 
 
