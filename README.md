@@ -11,7 +11,11 @@ spanning from 04/2024 to 11/2024. Through visual tracking of my progress, using 
 ![image](https://github.com/user-attachments/assets/665368d9-58f4-4a9c-903d-d72ea0edd486)
 ![image](https://github.com/user-attachments/assets/c9193524-25f7-4b9a-9605-589a9c9bb74a)
 
+
+
+
 Project2: An Overview of Car Insurance
+
 This project consists of well-organised dashboard provides a comprehensive analysis of vehicule insurance data, focusing on policies, sinisters, and losses. The visualizations offer insights into various aspects of the insurance landscape, including the distribution of policies, types of losses, and their trends over time.
 1. KPIs
 Total Active Policies
